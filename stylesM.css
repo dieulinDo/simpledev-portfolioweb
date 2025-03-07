@@ -262,6 +262,7 @@ font-size: 1rem;
         bottom: 100%;
         height: auto; 
         background-color: rgba(79,109,122,0.9);
+        backdrop-filter: blur(100px)!important;
         flex-direction: column;
         overflow: hidden;
         transform: all 0.5s ease-in-out;
