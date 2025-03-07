@@ -261,14 +261,14 @@ font-size: 1rem;
         top:100px;
         bottom: 100%;
         height: auto; 
-        background-color: rgba(79,109,122,10);
-        backdrop-filter: blur(-50px)!important;
+        background-color: rgba(79,109,122,0.78);
         flex-direction: column;
         overflow: hidden;
         transform: all 0.5s ease-in-out;
     }
     nav .icon-nav{
-        font-size:20px;}
+        font-size: 35px;
+    }
     nav ul li a{
         font-size: 20px;
         
