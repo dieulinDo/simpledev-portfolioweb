@@ -262,13 +262,13 @@ font-size: 1rem;
         bottom: 100%;
         height: auto; 
         background-color: rgba(79,109,122,0.5);
-        backdrop-filter: blur(300px)!important;
+        backdrop-filter: blur(500px)!important;
         flex-direction: column;
         overflow: hidden;
         transform: all 0.5s ease-in-out;
     }
     nav .icon-nav{
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
     nav ul li a{
         font-size: 20px;
